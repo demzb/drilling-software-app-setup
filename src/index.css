@@ -5,46 +5,53 @@
 
 @layer base {
   :root {
-    /* Primary - Deep blue for drilling industry */
-    --primary: 210 100% 45%;
+    /* Primary - Professional Blue */
+    --primary: 217 91% 60%;
     --primary-foreground: 0 0% 100%;
     
-    /* Secondary - Steel gray */
-    --secondary: 215 15% 25%;
+    /* Secondary - Slate Gray */
+    --secondary: 215 16% 47%;
     --secondary-foreground: 0 0% 100%;
     
-    /* Accent - Safety orange */
-    --accent: 25 95% 53%;
-    --accent-foreground: 0 0% 100%;
+    /* Accent - Light Blue */
+    --accent: 210 100% 95%;
+    --accent-foreground: 217 91% 60%;
     
     /* Background & Surface */
-    --background: 0 0% 98%;
-    --foreground: 215 25% 15%;
+    --background: 210 20% 98%;
+    --foreground: 222 47% 11%;
     
     --card: 0 0% 100%;
-    --card-foreground: 215 25% 15%;
+    --card-foreground: 222 47% 11%;
     
     /* Borders & Inputs */
-    --border: 215 15% 85%;
-    --input: 215 15% 85%;
-    --ring: 210 100% 45%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 217 91% 60%;
     
     /* Status colors */
-    --success: 142 76% 36%;
+    --success: 142 71% 45%;
     --success-foreground: 0 0% 100%;
     
-    --warning: 38 92% 50%;
+    --warning: 25 95% 53%;
     --warning-foreground: 0 0% 100%;
     
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
     
     /* Muted */
-    --muted: 215 15% 92%;
-    --muted-foreground: 215 10% 45%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
     
     --popover: 0 0% 100%;
-    --popover-foreground: 215 25% 15%;
+    --popover-foreground: 222 47% 11%;
+    
+    /* Chart colors */
+    --chart-1: 217 91% 60%;
+    --chart-2: 142 71% 45%;
+    --chart-3: 25 95% 53%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
     
     /* Radius */
     --radius: 0.5rem;

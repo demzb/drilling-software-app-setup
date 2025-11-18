@@ -59,8 +59,8 @@
 ### Tasks
 
 **Phase 1: Foundation & Database Setup (800 LOC)**
-- [ ] Update design system for business app theme
-- [ ] Create sidebar navigation layout
+- [x] Update design system for business app theme
+- [x] Create sidebar navigation layout
 - [ ] Setup Supabase database schema (projects, clients, employees, invoices, payments, expenses)
 - [ ] Create database types and interfaces
 - [ ] Setup Supabase client and React Query integration
